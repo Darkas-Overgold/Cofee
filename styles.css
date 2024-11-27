@@ -59,7 +59,16 @@ html {
 	display: flex;
 	flex-direction: column;
 }
+.devs{
+	display: flex;
+	align-items: center;
+	gap: 2rem;
+}
 
+.content-devs{
+	display: flex;
+	flex-direction: column;
+}
 .container-logo {
 	display: flex;
 	align-items: center;
