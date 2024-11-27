@@ -1,7 +1,7 @@
-### While (Coffee) True ☕️
+# While (Coffee) True ☕️
 ## Welcome to the While Coffee True Project!
 
-## This repository is dedicated to exploring programming concepts, creating efficient and creative solutions, and celebrating the joy of coding — all powered by the universal fuel of developers: coffee. From beginner-friendly implementations to advanced programming challenges, this repository showcases a diverse range of projects, tips, and tricks to improve your coding skills.
+### This repository is dedicated to exploring programming concepts, creating efficient and creative solutions, and celebrating the joy of coding — all powered by the universal fuel of developers: coffee. From beginner-friendly implementations to advanced programming challenges, this repository showcases a diverse range of projects, tips, and tricks to improve your coding skills.
 
 ## 🌟 Features
 ## 🛠 Diverse Projects: Explore examples of algorithms, data structures, and other coding challenges.
@@ -15,15 +15,15 @@ cd While_Coffee_True
 ### Navigate to the desired project directory.
 ### Follow the instructions in the specific project's README or file comments to execute.
 ## 🧑‍💻 Contributions
-We welcome contributions! Feel free to:
+### We welcome contributions! Feel free to:
 
-Fork the repository.
-Make your changes or add new projects.
-Open a pull request.
-Please make sure to follow our contributing guidelines for a smooth collaboration.
+### Fork the repository.
+### Make your changes or add new projects.
+### Open a pull request.
+### Please make sure to follow our contributing guidelines for a smooth collaboration.
 
 ## 📜 License
-This repository is licensed under the MIT License — you're free to use, modify, and distribute this code as you see fit.
+### This repository is licensed under the MIT License — you're free to use, modify, and distribute this code as you see fit.
 
 ## 🎉 Enjoy Coding!
-Whether you're here to learn, contribute, or simply browse, we hope this repository fuels your love for programming. Don't forget your coffee ☕!
+### Whether you're here to learn, contribute, or simply browse, we hope this repository fuels your love for programming. Don't forget your coffee ☕!
